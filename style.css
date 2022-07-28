@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@400;500;700&family=Yellowtail&display=swap');
+
 .center {
-    bottom: 1.25rem;
+    bottom: 7.25rem;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
 }
