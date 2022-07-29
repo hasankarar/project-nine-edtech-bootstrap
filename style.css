@@ -11,3 +11,12 @@ body {
 .btnmt {
     margin-top: 115px;
 }
+
+/* display none sm device */
+
+@media only screen and (max-width:768px) {
+    .sm-display {
+        display: none;
+    }
+
+}
